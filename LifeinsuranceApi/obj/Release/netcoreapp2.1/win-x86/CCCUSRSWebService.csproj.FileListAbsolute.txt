@@ -1,0 +1,17 @@
+C:\Sasidhar\SITToOCCAMIntegration\CCCUSRSWebService\CCCUSRSWebService\bin\Release\netcoreapp2.1\win-x86\web.config
+C:\Sasidhar\SITToOCCAMIntegration\CCCUSRSWebService\CCCUSRSWebService\bin\Release\netcoreapp2.1\win-x86\appsettings.Development.json
+C:\Sasidhar\SITToOCCAMIntegration\CCCUSRSWebService\CCCUSRSWebService\bin\Release\netcoreapp2.1\win-x86\appsettings.json
+C:\Sasidhar\SITToOCCAMIntegration\CCCUSRSWebService\CCCUSRSWebService\bin\Release\netcoreapp2.1\win-x86\Properties\launchSettings.json
+C:\Sasidhar\SITToOCCAMIntegration\CCCUSRSWebService\CCCUSRSWebService\bin\Release\netcoreapp2.1\win-x86\hostpolicy.dll
+C:\Sasidhar\SITToOCCAMIntegration\CCCUSRSWebService\CCCUSRSWebService\bin\Release\netcoreapp2.1\win-x86\hostfxr.dll
+C:\Sasidhar\SITToOCCAMIntegration\CCCUSRSWebService\CCCUSRSWebService\bin\Release\netcoreapp2.1\win-x86\CCCUSRSWebService.exe
+C:\Sasidhar\SITToOCCAMIntegration\CCCUSRSWebService\CCCUSRSWebService\bin\Release\netcoreapp2.1\win-x86\CCCUSRSWebService.deps.json
+C:\Sasidhar\SITToOCCAMIntegration\CCCUSRSWebService\CCCUSRSWebService\bin\Release\netcoreapp2.1\win-x86\CCCUSRSWebService.runtimeconfig.json
+C:\Sasidhar\SITToOCCAMIntegration\CCCUSRSWebService\CCCUSRSWebService\bin\Release\netcoreapp2.1\win-x86\CCCUSRSWebService.runtimeconfig.dev.json
+C:\Sasidhar\SITToOCCAMIntegration\CCCUSRSWebService\CCCUSRSWebService\bin\Release\netcoreapp2.1\win-x86\CCCUSRSWebService.dll
+C:\Sasidhar\SITToOCCAMIntegration\CCCUSRSWebService\CCCUSRSWebService\bin\Release\netcoreapp2.1\win-x86\CCCUSRSWebService.pdb
+C:\Sasidhar\SITToOCCAMIntegration\CCCUSRSWebService\CCCUSRSWebService\obj\Release\netcoreapp2.1\win-x86\CCCUSRSWebService.csprojAssemblyReference.cache
+C:\Sasidhar\SITToOCCAMIntegration\CCCUSRSWebService\CCCUSRSWebService\obj\Release\netcoreapp2.1\win-x86\CCCUSRSWebService.AssemblyInfoInputs.cache
+C:\Sasidhar\SITToOCCAMIntegration\CCCUSRSWebService\CCCUSRSWebService\obj\Release\netcoreapp2.1\win-x86\CCCUSRSWebService.AssemblyInfo.cs
+C:\Sasidhar\SITToOCCAMIntegration\CCCUSRSWebService\CCCUSRSWebService\obj\Release\netcoreapp2.1\win-x86\CCCUSRSWebService.dll
+C:\Sasidhar\SITToOCCAMIntegration\CCCUSRSWebService\CCCUSRSWebService\obj\Release\netcoreapp2.1\win-x86\CCCUSRSWebService.pdb

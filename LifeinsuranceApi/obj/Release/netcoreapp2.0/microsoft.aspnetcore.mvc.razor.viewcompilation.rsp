@@ -1,0 +1,5 @@
+C:\Sasidhar\DLCScentiaIntegration\DLCDataExtractService\DLCDataExtractService
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=DLCDataExtractService
+--content-root=C:\Sasidhar\DLCScentiaIntegration\DLCDataExtractService\DLCDataExtractService
+--file=
